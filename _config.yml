@@ -1,7 +1,8 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+  Category: /categories
+  Archive: /archives
 rss: /atom.xml
 banner: "images/banner.jpg"
 
@@ -18,12 +19,6 @@ widgets:
 - tagcloud
 - archive
 - recent_posts
-
-# display widgets at the bottom of index pages (pagination == 2)
-index_widgets:
-# - category
-# - tagcloud
-# - archive
 
 # widget behavior
 archive_type: 'monthly'
