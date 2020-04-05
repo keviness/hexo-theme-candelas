@@ -16,7 +16,6 @@ sidebar: right
 widgets:
 - tag
 - tagcloud
-- archive
 - recent_posts
 
 # widget behavior
