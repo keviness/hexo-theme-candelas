@@ -4,7 +4,12 @@ menu:
   Category: /categories
   Archive: /archives
 rss: /atom.xml
-banner: "images/banner.jpg"
+banner:
+  - "https://files.dukeluo.me/banner/banner-1.jpg"
+  - "https://files.dukeluo.me/banner/banner-2.jpg"
+  - "https://files.dukeluo.me/banner/banner-4.jpg"
+  - "https://files.dukeluo.me/banner/banner-5.jpg"
+  - "https://files.dukeluo.me/banner/banner-6.jpg"
 
 # Content
 excerpt_link: Read More
@@ -14,9 +19,9 @@ recent_posts_limits: 5
 # Sidebar
 sidebar: right
 widgets:
-- tag
-- tagcloud
-- recent_posts
+  - tag
+  - tagcloud
+  - recent_posts
 
 # widget behavior
 archive_type: 'monthly'
