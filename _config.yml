@@ -17,10 +17,10 @@ fancybox: true
 recent_posts_limits: 5
 
 # Sidebar
+# todo! should be deleted
 sidebar: right
 widgets:
   - tag
-  - tagcloud
   - recent_posts
 
 # widget behavior
