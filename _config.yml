@@ -16,13 +16,6 @@ excerpt_link: Read More
 fancybox: true
 recent_posts_limits: 5
 
-# Sidebar
-# todo! should be deleted
-sidebar: right
-widgets:
-  - tag
-  - recent_posts
-
 # widget behavior
 archive_type: 'monthly'
 show_count: false
