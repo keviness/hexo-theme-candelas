@@ -18,7 +18,6 @@ recent_posts_limits: 5
 
 # widget behavior
 archive_type: 'monthly'
-show_count: false
 
 # Miscellaneous
 google_analytics:
